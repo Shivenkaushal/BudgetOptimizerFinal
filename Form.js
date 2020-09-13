@@ -1,7 +1,7 @@
 class Form{
     constructor() {
 
-this.titlexc = createElement('h1',"Budget Optimizer");
+this.titlexc = createElement(' h1 ',"Budget Optimizer");
 
 this.monthinstruction = createElement('h3',"What is your monthly income?")
 this.taxinstruction = createElement('h3',"What is your cumulative income tax rate?* ")
